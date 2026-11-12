@@ -1,3 +1,0 @@
-C:\Users\juana\Documents\GitHub\Serpiente\Serpiente\x64\Debug\Serpiente.vcxproj.AssemblyReference.cache
-C:\Users\juana\Documents\GitHub\Serpiente\Serpiente\x64\Debug\Serpiente.vcxproj.ResolveComReference.cache
-C:\Users\juana\Documents\GitHub\Serpiente\Serpiente\x64\Debug\Serpiente.exe

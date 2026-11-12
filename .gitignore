@@ -1,17 +1,31 @@
-# Carpetas de compilación
-[Dd]ebug/
-[Rr]elease/
-x64/
+# Carpetas de compilación de Visual Studio
 .vs/
+x64/
+x86/
+Debug/
+Release/
+*/x64/
+*/Debug/
+*.tlog/
 
-# Archivos temporales de compilación
+# Binarios y archivos intermedios
+*.exe
+*.dll
 *.obj
 *.pdb
-*.tlog
-*.lastbuildstate
-*.exe
 *.ilk
-*.exp
 *.idb
+*.ipch
+*.lastbuildstate
 *.recipe
-*.FileListAbsolute.txt
+*.metagen
+*.cache
+*.log
+
+# Configuración personal de Visual Studio
+*.user
+*.suo
+*.vsidx
+
+# Documentación generada (se regenera con Doxygen)
+doxygen_output/
